@@ -1,6 +1,3 @@
 # webappdemo
 webappdemo
-Hello Continnetal
-Good Mrg!!!!
-Shailesh
-
+Hello Skill-lync
